@@ -60,5 +60,4 @@ class GoogleAuth extends React.Component {
     }
 }
 
-export default GoogleAuth;
 export default connect(null, { signIn, signOut})(GoogleAuth);
