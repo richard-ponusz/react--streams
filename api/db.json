@@ -27,6 +27,12 @@
       "description": "smelly",
       "userId": "102130270981198890081",
       "id": 5
+    },
+    {
+      "title": "test stream for navigation",
+      "description": "hope this works",
+      "userId": "102130270981198890081",
+      "id": 6
     }
   ]
 }
