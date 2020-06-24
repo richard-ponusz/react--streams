@@ -9,6 +9,12 @@
       "title": "test title",
       "description": "test description",
       "id": 2
+    },
+    {
+      "title": "FIrst stream with userId",
+      "description": "hope userID gets passed",
+      "userId": "102130270981198890081",
+      "id": 3
     }
   ]
 }
