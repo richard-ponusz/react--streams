@@ -33,6 +33,12 @@
       "description": "hope this works",
       "userId": "102130270981198890081",
       "id": 6
+    },
+    {
+      "title": "test after StreamCreate refactor",
+      "description": "it should navigate away",
+      "userId": "102130270981198890081",
+      "id": 7
     }
   ]
 }
