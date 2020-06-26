@@ -1,42 +1,16 @@
 {
   "streams": [
     {
-      "title": "nice title",
-      "description": "test desc",
+      "title": "Stream #1 - Test Title",
+      "description": "Test Description",
+      "userId": "109811277007192651203",
       "id": 1
     },
     {
-      "title": "test title",
-      "description": "test description",
+      "title": "This is a Fake 2nd Stream",
+      "description": "My precious",
+      "userId": "109811277007192651203",
       "id": 2
-    },
-    {
-      "title": "FIrst stream with userId",
-      "description": "hope userID gets passed",
-      "userId": "102130270981198890081",
-      "id": 3
-    },
-    {
-      "title": "kiskutya",
-      "description": "smelly",
-      "userId": "102130270981198890081",
-      "id": 4
-    },
-    {
-      "title": "this was edited too",
-      "description": "bad again?",
-      "id": 5
-    },
-    {
-      "title": "this was edited",
-      "description": "did it edit the description too?",
-      "id": 6
-    },
-    {
-      "title": "test after StreamCreate refactor",
-      "description": "it should navigate away",
-      "userId": "102130270981198890081",
-      "id": 7
     }
   ]
 }
